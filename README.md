@@ -11,7 +11,6 @@ Below we can visualize what each of these 68 coordinates map to:
 
 ![Image description](68747470733a2f2f7777772e7079696d6167657365617263682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30342f66616369616c5f6c616e646d61726b735f36386d61726b75702e6a7067.jpg)
 
-N|Solid
 
 Examining the image, we can see that facial regions can be accessed via simple Python indexing (assuming zero-indexing with Python since the image above is one-indexed):
 
