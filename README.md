@@ -10,6 +10,8 @@ The facial landmark detector implemented inside dlib produces 68 (x, y)-coordina
 
 Below we can visualize what each of these 68 coordinates map to:
 
+![Image description](image)
+
 N|Solid
 
 Examining the image, we can see that facial regions can be accessed via simple Python indexing (assuming zero-indexing with Python since the image above is one-indexed):
