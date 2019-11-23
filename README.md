@@ -15,7 +15,7 @@ N|Solid
 
 Examining the image, we can see that facial regions can be accessed via simple Python indexing (assuming zero-indexing with Python since the image above is one-indexed):
 
-The mouth can be accessed through points [48, 68].
+\item The mouth can be accessed through points [48, 68].
 The right eyebrow through points [17, 22].
 The left eyebrow through points [22, 27].
 The right eye using [36, 42].
