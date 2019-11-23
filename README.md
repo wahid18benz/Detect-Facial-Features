@@ -1,7 +1,6 @@
-# Detect-Facial-Features
+# Detect-Facial-Features in real time
 Using dlib, OpenCV, and Python, to detect in real time how to open/closed eyes,mouth, position of the head, and the emotion
 
-Detect-Facial-Features
 
 This detection is based on Dlib which help to extract the cordinates for facial features like eyes, nose, mouth and jaw using 68 facial landmark indexes.
 
@@ -10,7 +9,7 @@ The facial landmark detector implemented inside dlib produces 68 (x, y)-coordina
 
 Below we can visualize what each of these 68 coordinates map to:
 
-![Image description](image)
+![Image description](68747470733a2f2f7777772e7079696d6167657365617263682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30342f66616369616c5f6c616e646d61726b735f36386d61726b75702e6a7067.jpg)
 
 N|Solid
 
